@@ -1,0 +1,11 @@
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\bin\Debug\netcoreapp2.1\testbackpropagation.deps.json
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\bin\Debug\netcoreapp2.1\testbackpropagation.runtimeconfig.json
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\bin\Debug\netcoreapp2.1\testbackpropagation.runtimeconfig.dev.json
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\bin\Debug\netcoreapp2.1\testbackpropagation.dll
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\bin\Debug\netcoreapp2.1\testbackpropagation.pdb
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\obj\Debug\netcoreapp2.1\testbackpropagation.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\obj\Debug\netcoreapp2.1\testbackpropagation.AssemblyInfoInputs.cache
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\obj\Debug\netcoreapp2.1\testbackpropagation.AssemblyInfo.cs
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\obj\Debug\netcoreapp2.1\testbackpropagation.dll
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\obj\Debug\netcoreapp2.1\testbackpropagation.pdb
+C:\Users\Q\source\repos\testbackpropagation\testbackpropagation\obj\Debug\netcoreapp2.1\testbackpropagation.csprojAssemblyReference.cache
